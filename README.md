@@ -1,3 +1,7 @@
+
+Refer this video : https://youtu.be/HQwn7rO1IoI
+
+
 # Personalized Gift Platform 🎁
 
 A full-stack AI-powered e-commerce platform that helps users find the perfect gifts for their loved ones using personalized recommendations.
